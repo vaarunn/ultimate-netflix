@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ultimate-netflix/static/css/main.45ae0821.css",
+    "main.js": "/ultimate-netflix/static/js/main.5fc0a2e4.js",
+    "static/media/netflixBg.jpg": "/ultimate-netflix/static/media/netflixBg.b25a426713c58f98bde3.jpg",
+    "index.html": "/ultimate-netflix/index.html",
+    "main.45ae0821.css.map": "/ultimate-netflix/static/css/main.45ae0821.css.map",
+    "main.5fc0a2e4.js.map": "/ultimate-netflix/static/js/main.5fc0a2e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45ae0821.css",
+    "static/js/main.5fc0a2e4.js"
+  ]
+}
